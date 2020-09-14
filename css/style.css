@@ -1,0 +1,16 @@
+title{
+    color: yellow;
+}
+
+body{
+    background-color: darkgreen;
+    }
+ h1{
+        color: yellow;
+    }
+ a:link{
+        color: Lavender;
+    }
+ a:visited{
+        color:yellow;
+    }
